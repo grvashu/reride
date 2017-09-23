@@ -1,0 +1,7 @@
+#Sat Sep 23 10:22:20 IST 2017
+base.0=/Users/srishti/Desktop/reride_new/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a1872acbe4ed1ec2f56b3a14d38167329fcc8896
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/srishti/Desktop/reride_new/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5d950811d66bc6094c8b62e305d9edeb71a6e389/classes.dex
+base.1=/Users/srishti/Desktop/reride_new/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5d950811d66bc6094c8b62e305d9edeb71a6e389
+file.0=/Users/srishti/Desktop/reride_new/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a1872acbe4ed1ec2f56b3a14d38167329fcc8896/classes.dex

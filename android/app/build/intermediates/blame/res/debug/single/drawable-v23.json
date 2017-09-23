@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_e.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_cc_settings_button_e.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/action_item_icon_background.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/action_item_icon_background.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/action_item_background.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/action_item_background.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_center.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_cc_settings_button_center.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_expand_less_white_22.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_expand_less_white_22.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_bottom.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_cc_settings_button_bottom.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_more_horiz_24dp_wht.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_cc_settings_button_top.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_cc_settings_button_top.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v23/ic_more_vert_24dp_wht.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v23/ic_more_vert_24dp_wht.xml"
+    }
+]

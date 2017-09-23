@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/anim/design_fab_out.xml"
+    }
+]
