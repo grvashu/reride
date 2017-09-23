@@ -1,35 +1,31 @@
 [
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_positive_bg.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/accept_deny_dialog_positive_bg.xml"
     },
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/open_on_phone_animation.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/open_on_phone_animation.xml"
     },
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/generic_confirmation.xml"
     },
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/preference_wrapped_icon.xml",
-        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/preference_wrapped_icon.xml"
-    },
-    {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/ic_cc_clear.xml",
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/ic_cc_clear.xml"
     },
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/avd_hide_password.xml"
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/avd_show_password.xml"
     },
     {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_positive_bg.xml",
@@ -44,10 +40,6 @@
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/open_on_phone_animation.xml"
     },
     {
-        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/generic_confirmation_animation.xml"
     },
@@ -56,8 +48,16 @@
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/ic_cc_checkmark.xml"
     },
     {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/preference_wrapped_icon.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/preference_wrapped_icon.xml"
+    },
+    {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/ic_expand_more_white_22.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/ic_expand_more_white_22.xml"
     },
     {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_negative_bg.xml",
@@ -70,5 +70,77 @@
     {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/preference_wrapped_icon.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/preference_wrapped_icon.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_negative_bg.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/ic_cc_checkmark.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/ic_cc_clear.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/drawable-v21/ic_cc_clear.xml"
+    },
+    {
+        "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

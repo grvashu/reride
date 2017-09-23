@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/layout-v20/watch_card_content.xml",
+        "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/layout-v20/watch_card_content.xml"
+    },
+    {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/layout-v20/watch_card_content.xml",
         "source": "/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/res/layout-v20/watch_card_content.xml"
     }

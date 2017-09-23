@@ -12,30 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/processing-core.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c88da33bc2c08eb0a88c440187a764e25ef805ca">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/processing-core_f3deba35fd44ba1e081b33e3330c4e949b68df71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/httpclient-4.1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c5bf45f7f35857d2c2dccfadf213ff047778a7cb">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/httpclient-4.1.2_960a7e81b835c5982e9f0b36a476b3f95cbe43c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/httprequests_processing.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/httprequests_processing.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="650f2b74675e55bea4992d8d2be280b70690b970">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/httprequests_processing_f84dfcc574657a06a7ca9aa6a14f45a8eab811d5.jar" />
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/httprequests_processing_3df6c5be77614293408d7396a1c3aaa57122f6b4.jar" />
     </item>
     <item
         is-multidex="true"
@@ -48,21 +30,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/9e16a046335c6b06a3257d1315098428a2c62b8c/output/jars/classes.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/commons-codec-1.4.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_c9f80dc1c5369134e545b089e032de6a01373fba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/2cffee6d113fa34a797c4cd541385c9621325d65/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_7fd4e9a68008978d070c28c5a699299bdd19ee08.jar" />
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/commons-codec-1.4_0a610cc766a96d212b30b86d2b00abc95e3ea614.jar" />
     </item>
     <item
         is-multidex="true"
@@ -93,12 +66,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/httpcore-4.1.2.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/httpclient-cache-4.1.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="39e30fb2ddfcf32b9dd663039ca6e847b698aa6f">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/httpcore-4.1.2_fbb141176ab3c21be575c3a3cea5353b82e14c17.jar" />
+        sha1="d120bc4fa4f0ca8a8c92a1cc7093506f68e235a0">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/httpclient-cache-4.1.2_80b92b2ac91f0c8d1cd60f3e2d863381072310aa.jar" />
     </item>
     <item
         is-multidex="true"
@@ -111,39 +84,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/httpclient-cache-4.1.2.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/commons-logging-1.1.1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="d120bc4fa4f0ca8a8c92a1cc7093506f68e235a0">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/httpclient-cache-4.1.2_752c5a8afcec4efa73117c4e7a05e4df410b2117.jar" />
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/commons-logging-1.1.1_98775f4782159492c050b3187dae4a16c8773468.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/f7dfc695b6c1ccd73628c13bfb6cbae1c81e2ca0/output/jars/classes.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/processing-core.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_116c0dd5be636023e36a1af9a557a3d7e8374f3e.jar" />
+        sha1="c88da33bc2c08eb0a88c440187a764e25ef805ca">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/processing-core_752e58e84fb92e7cbc765ab6cc6cda70ae84920b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/47f1d44ab14fb53906db2867b9f04dcdfaf3d7dd/output/jars/classes.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/httpcore-4.1.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_13455a7bc1a26f5a67c3ad31261fb2d8b0855cfe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/ff39ce09bf013f26dfa1d756ae57d19b50ab6143/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_14c18ad1fa0e60396ec70d3ddc5ec9365064d53a.jar" />
+        sha1="39e30fb2ddfcf32b9dd663039ca6e847b698aa6f">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/httpcore-4.1.2_e5fed0ac1a33e9cb44badc1e39d4d72e6c1cb5fd.jar" />
     </item>
     <item
         is-multidex="true"
@@ -156,48 +120,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/dc228db35f82bfe98d6589a6e8cab61bb1ff9c38/output/jars/classes.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/httpmime-4.1.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_ec568e8fb2ac166de3a3ba392af0634f4dc60f37.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/commons-logging-1.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/commons-logging-1.1.1_c7acc03826267cc1420a384b0f97566692f7f6b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/3513b8c968ecf80bc98d69836f28339c9ba4497b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_72a40db15a7f9f80c663f69bf44dd911cfd5ea70.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/1ee41c05e16f3a81850128585455275441decc92/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_1d12e473fc9512815711a52a30d1966804fb14d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_3d72d4e5311801dbe864ce982dcd65235839568a.jar" />
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/httpmime-4.1.2_26fb02921cccc43a8b7464c7962fa2fdefac27c7.jar" />
     </item>
     <item
         is-multidex="true"
@@ -210,39 +138,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/srishti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jar="/Users/srishti/github/reride/android/app/libs/httpclient-4.1.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_0efa12fe419821bedab48830e8257ca68cdd946f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/aa54bbe5dce4bbac21dd1ead7273525e846c99ac/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_d315cf8aa1125abf5471d2085bf1f7b8f3a4f053.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/3215febfa2ddd1f15e4963ce8ea0442f73f6812f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_320ccdb0472fad9209e03434a617ab865b01b78d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/commons-codec-1.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/commons-codec-1.4_43716bdc20f3f356f0c8faa3f2effc81674a8dca.jar" />
+        sha1="c5bf45f7f35857d2c2dccfadf213ff047778a7cb">
+        <dex dex="/Users/srishti/github/reride/android/app/build/intermediates/pre-dexed/debug/httpclient-4.1.2_e5283ec6f9eab7aa394e2e37274883c35ac3066d.jar" />
     </item>
     <item
         is-multidex="true"
@@ -254,24 +155,6 @@
         <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.4_43716bdc20f3f356f0c8faa3f2effc81674a8dca/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/72cfaa967294115022f79452d72cb349761d1676/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_ef66732e623767bdd33334fbc6733052e6fa410c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/90b4c3da9185eafbc0ca03bce0366febade651df/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_83bcd4e7544edd72552e760b9a22e37f4628d68b.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/srishti/Desktop/reride_new/android/app/libs/httpmime-4.1.2.jar"
         jumboMode="true"
@@ -279,24 +162,6 @@
         revision="26.0.1"
         sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
         <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.2_c2bca41d69a56d8fb74803977587d5823957178c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/Desktop/reride_new/android/app/libs/httpmime-4.1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/httpmime-4.1.2_c2bca41d69a56d8fb74803977587d5823957178c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/srishti/.android/build-cache/1558bdcdf5b1b50c8e910ad3b13402953cc72d5e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/srishti/Desktop/reride_new/android/app/build/intermediates/pre-dexed/debug/classes_2b75159a3e505fb902ec4ed77c2909d10b3be121.jar" />
     </item>
 
 </items>

@@ -1,6 +1,14 @@
 [
     {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
         "merged": "/Users/srishti/Desktop/reride_new/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/srishti/github/reride/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/srishti/.android/build-cache/068c39840d6362aeb27bdd816deea8252d5c3951/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
