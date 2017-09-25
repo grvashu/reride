@@ -24,6 +24,7 @@
         android:label="reride_new" >
         <activity
             android:name="com.srishti.reride.MainActivity"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -4,32 +4,43 @@ import processing.core.*;
 
 import android.content.Context;
 
+import android.content.pm.PackageManager;
 import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
+import android.util.Log;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class reride_new extends PApplet {
+public class RR extends PApplet {
 
 
     // Min-Max left/right tilt in degrees
     final int MIN_TILT = -60;
     final int MAX_TILT = 60;
+
     // Min-Max readings of FSRs
     final int MAX_FSR = 1023;
     final int MIN_FSR = 0;
+
     // Min-Max tilt of trapezium in pixels
     final int MIN_DISP_TILT = -200;
     final int MAX_DISP_TILT = 200;
+
     // Trapezium offset from bottom edge of the screen
     final int TRAP_OFFSET = 300;
+
     // Trail of Trapezium (0-100)
-    final int TRAIL_FACTOR = 60;
+    final int TRAIL_FACTOR = 0;
 
     // Declaring RR instance
     ReRide r;
+
+    int acc;
+    int push;
+    int fsr;
 
     /*
     Initialization Status
@@ -41,6 +52,7 @@ public class reride_new extends PApplet {
     5: Test Lambda Push
     6: Start streaming
     */
+
     int init_status;
     // Declare Android instances
     Context context;
@@ -51,6 +63,7 @@ public class reride_new extends PApplet {
     float ax, ay, az;
 
     public void setup() {
+
 
         // Fetch display resolution from mobile
         // Uncomment below line and remove the line after
@@ -69,9 +82,12 @@ public class reride_new extends PApplet {
         // Test AWS stream -- at reride_push HTTP endpoint
         // streamData(502, 100, 200, 10, 20, 30, 1);
 
+
+
     }
 
     public void draw() {
+
 
         // Initialize Display
         if (init_status < 3) {
@@ -97,6 +113,11 @@ public class reride_new extends PApplet {
             r.update();
         }
 
+        if (push==1){
+            background(255,0,0);
+        }else{
+            background(0);
+        }
     }
 
     public void mousePressed() {
@@ -125,7 +146,6 @@ public class reride_new extends PApplet {
             e.printStackTrace();
         }
         //text("Response Content: " + post.getContent(), 0, 0);
-
     }
 
     public void createAndroidInstance() {
@@ -157,6 +177,10 @@ public class reride_new extends PApplet {
     // Data Packet
     class Data {
 
+        int acc1;
+        int push1;
+        int fsr1;
+
         //int id;
         // FSR Values
         float fsr_left;
@@ -180,15 +204,17 @@ public class reride_new extends PApplet {
         // Get Tilt from FSR data
         float tilt() {
 
-            // Get simulation data from mouse movement
-            //if (fsr_left>fsr_right) {
-            //  return map(fsr_left-fsr_right, MIN_FSR, MAX_FSR, MIN_TILT, MAX_TILT);
-            //} else {
-            //  return map(fsr_right-fsr_left, MIN_FSR, MAX_FSR, MIN_TILT, MAX_TILT);
-            //}
-
+            //Get simulation data from mouse movement
+//            if (fsr_left>fsr_right) {
+//              return map(fsr_left-fsr_right, MIN_FSR, MAX_FSR, MIN_TILT, MAX_TILT);
+//            } else {
+//              return map(fsr_right-fsr_left, MIN_FSR, MAX_FSR, MIN_TILT, MAX_TILT);
+//            }
+//
             // Get simulation data from phone tilt along y axis
-            return map(ay, 5, -5, MIN_TILT, MAX_TILT);
+            //return map(ay, 5, -5, MIN_TILT, MAX_TILT);
+
+            return fsr1;
         }
 
         // Get Lateral Tilt from Accelerometer data
@@ -197,14 +223,15 @@ public class reride_new extends PApplet {
             // return map(mouseY, 0, height, -100, 100);
 
             // Get simulation data from phone tilt along y axis
-            return map(az, 5, -5, 100, -400);
+            // return map(az, 5, -5, 100, -400);
+            return map(acc1,0,200,100,-400);
         }
 
         // Get Random data for simulation
         void getRandom() {
 
-            fsr_left = map(mouseX, 0, width, MIN_FSR, MAX_FSR);
-            fsr_right = map(mouseX, width, 0, MIN_FSR, MAX_FSR);
+            fsr_left = map(random(width), 0, width, MIN_FSR, MAX_FSR);
+            fsr_right = map(random(width), width, 0, MIN_FSR, MAX_FSR);
             acc_x = 10 * noise(frameCount);
             acc_y = 10 * noise((float) (frameCount * 1.232));
             acc_z = 10 * noise((float) (frameCount * 1.202));
@@ -214,6 +241,10 @@ public class reride_new extends PApplet {
         // Get Data from BLE --> Send to RR class for display --> Stream data to AWS --> Data is fetch on another device/app post-ride
         void getData() {
             // BLE code
+            acc1=acc;
+            push1=push;
+            fsr1=fsr;
+            Log.i("Data fetched","acc:"+acc1+",push:"+push+",fsr:"+fsr);
         }
 
         // Parse JSON and load data into variables
@@ -342,7 +373,7 @@ public class reride_new extends PApplet {
 
         public void getData() {
             Data now = new Data();
-            now.getRandom();
+            now.getData();
             data.add(now);
             index++;
         }
@@ -373,7 +404,7 @@ public class reride_new extends PApplet {
             pushStyleMatrix();
 
             try {
-                now.streamData(index);
+                //now.streamData(index);
             } catch (Exception e) {
             }
             pgr.beginDraw();
@@ -384,7 +415,7 @@ public class reride_new extends PApplet {
             c = color(map(tilt, MIN_TILT, MAX_TILT, 0, 255), 200, 200);
             pgr.fill(c);
             pgr.beginShape();
-            float new_tilt = +map(tilt, MIN_TILT, MAX_TILT, MIN_DISP_TILT, MAX_DISP_TILT);
+            float new_tilt = +map(tilt, 0, 100, MIN_DISP_TILT, MAX_DISP_TILT);
             //bottom left
             pgr.vertex(-pgr.width / 3, (pgr.height / 3) - new_tilt);
             //top left
@@ -400,13 +431,12 @@ public class reride_new extends PApplet {
             pgr.colorMode(RGB);
             pgr.fill(255);
             pgr.textSize(50);
-            pgr.text("x:" + ax + ",y:" + ay + ",z:" + az, 0, 0);
+            //pgr.text("x:" + ax + ",y:" + ay + ",z:" + az, 0, 0);
             pgr.endDraw();
 
             popStyleMatrix();
-            delay(500);
+            delay(100);
         }
-
 
         public void update() {
             switch (disp_mode) {

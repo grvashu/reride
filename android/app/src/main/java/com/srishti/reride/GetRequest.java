@@ -72,9 +72,6 @@ public class GetRequest
         }
     }
 
-	/* Getters
-	_____________________________________________________________ */
-
     public String getContent()
     {
         return this.content;

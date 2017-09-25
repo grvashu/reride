@@ -75,21 +75,21 @@ public class PostRequest
         this.binary = binary;
     }
 
-    public void addDataFromFile(String fullPathname) {
-        addDataFromFile(null, fullPathname);
-    }
-    public void addDataFromFile(String contentType, String fullPathname) {
-        if (contentType != null) {
-            addHeader(HttpHeaders.CONTENT_TYPE, contentType);
-        }
-        Path path = Paths.get(fullPathname);
-        System.out.println("Path: " + path.toAbsolutePath());
-        try {
-            this.binary = Files.readAllBytes(path);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+//    public void addDataFromFile(String fullPathname) {
+//        addDataFromFile(null, fullPathname);
+//    }
+//    public void addDataFromFile(String contentType, String fullPathname) {
+//        if (contentType != null) {
+//            addHeader(HttpHeaders.CONTENT_TYPE, contentType);
+//        }
+//        Path path = Paths.get(fullPathname);
+//        System.out.println("Path: " + path.toAbsolutePath());
+//        try {
+//            this.binary = Files.readAllBytes(path);
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//    }
 
     public void addJson(String json) {
         addHeader(HttpHeaders.CONTENT_TYPE, "application/json");
@@ -184,9 +184,6 @@ public class PostRequest
             e.printStackTrace();
         }
     }
-
-  /* Getters
-  _____________________________________________________________ */
 
     public String getContent()
     {
